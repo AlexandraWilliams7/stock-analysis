@@ -9,13 +9,13 @@
 ## Results
 #### The original code worked well for the DQ stoce Steve was looking into. It gave him the information he needed to determine if this stock was right for his parents. Unfortunately,  the code ran slower when Steve asked us to include the other stock tickers. 
 
-### ![alt text](Green_stock_2017.jpg)
-###  ![alt text](Green_Stock_2017.jpg)   
+### ![ the first run Green stock 2017](Green_stock_2017.jpg)
+###  ![the first run Green stock 2018](Green_Stock_2018.jpg)   
 
 #### Here both photos you see that the original code took about 0.95 seconds to run each year.Once the code was refactored, the run time was cut to about 0.17 seconds for each year.
 
-### ![alt text](VBA_Challenge_2017.jpg)
-### ![alt text](VBA_Challenge_2018.jpg)
+### ![The Refactored run of VBA code 2017](VBA_Challenge_2017.jpg)
+### ![The Refactored run of VBA code 2018](VBA_Challenge_2018.jpg)
 
 #### Based on the reports provided from both codes, results were the same, the Stocks in 2017 had a better return than in 2018. Steve does not want to let his parents solely invest in ticker DQ.  
 
